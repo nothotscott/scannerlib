@@ -1,0 +1,2 @@
+int
+scannerlib_example();
